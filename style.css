@@ -1,0 +1,9 @@
+.container{
+   justify-content: flex-start;
+   border-width: 0cap;
+   flex-direction: column;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+navbar.menu{
+   justify-content: center;
+}
